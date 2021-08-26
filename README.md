@@ -16,5 +16,4 @@
   - Functional Components
   - Class Components
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/66bed52b-196b-4cb9-9792-bf225b29fc93/deploy-status)](https://app.netlify.com/sites/mrwr-songs-nmc/deploys)
+CodeSandbox - [https://f2foh.csb.app/](https://f2foh.csb.app/)
